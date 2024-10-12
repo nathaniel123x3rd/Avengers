@@ -27,8 +27,8 @@ Follow these instructions to get a copy of the project running on your local mac
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/nathaniel123x3rd/avengers-card-hover.git
-   cd avengers-card-hover
+   git clone https://github.com/nathaniel123x3rd/avengers.git
+   cd avengers
    ```
 
 2. **Open `index.html`**:

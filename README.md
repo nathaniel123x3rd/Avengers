@@ -11,7 +11,7 @@ A visually appealing hover animation effect for character cards featuring Avenge
 
 ## Demo
 
-You can see a live demo of the project [here](#).
+You can see a live demo of the project [here](https://avengers.nathaniel.world).
 
 ## Getting Started
 
@@ -27,7 +27,7 @@ Follow these instructions to get a copy of the project running on your local mac
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/avengers-card-hover.git
+   git clone https://github.com/nathaniel123x3rd/avengers-card-hover.git
    cd avengers-card-hover
    ```
 
